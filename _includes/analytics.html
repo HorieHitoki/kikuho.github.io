@@ -1,0 +1,22 @@
+{% if site.google_analytics %}
+	<!-- Google Analytics -->
+	<amp-analytics type="googleanalytics" id="analytics1">
+	<script type="application/json">
+	{
+		"requests": {
+			"pageview": "{{ site.baseurl }}{{ page.url }}"
+		},
+		"vars": {
+			"account": "{{ site.google_analytics }}"
+		},
+		"triggers": {
+			"trackPageview": {
+				"on": "visible",
+				"request": "pageview"
+			}
+		}
+	}
+	</script>
+	</amp-analytics>
+	<!-- End Google Analytics -->
+{% endif %}
