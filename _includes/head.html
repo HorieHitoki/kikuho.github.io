@@ -9,6 +9,10 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 
+  <script type="application/ld+json">
+  {% include metadata.json %}
+  </script>
+
   <style amp-custom>
   {% capture include_to_scssify %}
     {% include style.scss %}
