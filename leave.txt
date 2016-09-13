@@ -1,6 +1,4 @@
 ---
-title: 退会届
-permalink: /leave/
 ---
 
 						　　　　　年　　月　　日
