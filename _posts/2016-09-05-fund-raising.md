@@ -40,7 +40,7 @@ title: 募金目標額等に関するご報告（定期更新）
 *2: 2016年9月末日まで有効。
 
 *3: 外部支援総額とは、収入合計から、当保存会内部からの寄付及び会費を除いたものです。
-詳しくは[CANPAN](http://fields.canpan.info/organization/detail/1924940248#finances)を参照してください。
+詳しくは[CANPAN](http://fields.canpan.info/organization/detail/1924940248#finances)をご参照ください。
 
 
 以上
