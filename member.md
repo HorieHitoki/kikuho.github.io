@@ -18,7 +18,7 @@ permalink: /member/
 
 <amp-accordion>
 <section>
-### 入会申込書
+<h3>入会申込書</h3>
 <pre>
 						　　　　　年　　月　　日
 
@@ -64,7 +64,7 @@ permalink: /member/
 
 <amp-accordion>
 <section>
-### 退会届
+<h3>退会届</h3>
 <pre>
 						　　　　　年　　月　　日
 
