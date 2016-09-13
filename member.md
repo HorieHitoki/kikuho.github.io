@@ -14,9 +14,9 @@ permalink: /member/
 <a name="join">入会手続</a>
 ---
 
-入会を希望される場合は「[入会申込書]({{ site.baseurl }}/join)」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
+入会を希望される場合は「[入会申込書]({{ site.baseurl }}/join.txt)」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
 
 <a name="leave">退会手続</a>
 ---
 
-退会を希望される場合は「[退会届]({{ site.baseurl }}/leave)」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
+退会を希望される場合は「[退会届]({{ site.baseurl }}/leave.txt)」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
