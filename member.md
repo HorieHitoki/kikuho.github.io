@@ -16,9 +16,6 @@ permalink: /member/
 
 入会を希望される場合は下記「入会申込書」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
 
-<amp-accordion>
-<section>
-<h3>入会申込書</h3>
 <pre>
 						　　　　　年　　月　　日
 
@@ -54,17 +51,12 @@ permalink: /member/
 　[会員種別]              
 　[入会希望時期]			
 </pre>
-</section>
-</amp-accordion>
 
 <a name="leave">退会手続</a>
 ---
 
 退会を希望される場合は下記「退会届」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
 
-<amp-accordion>
-<section>
-<h3>退会届</h3>
 <pre>
 						　　　　　年　　月　　日
 
@@ -89,5 +81,3 @@ permalink: /member/
 
             
 </pre>
-</section>
-</amp-accordion>
