@@ -4,7 +4,6 @@ title: 寄付金のお願い
 permalink: /donate/
 ---
 
-* <a href="{{ site.baseurl }}{{ page.url }}#jpbank">菊月第三砲身引き揚げ支援についてはこちら</a>
 * ジャパンギビングが提供するファンドレイジングページは[こちら](http://japangiving.jp/p/3982)
 * 菊月保存会は、日本財団が提供する公益活動団体データベースCANPANにて情報開示を進めています。[詳細](http://fields.canpan.info/organization/detail/1924940248)
 * また、本会への寄付について、寄付者が法人である場合は、寄付金は損金算入可能です。[詳細](http://law.e-gov.go.jp/htmldata/S40/S40HO034.html)
@@ -15,7 +14,7 @@ permalink: /donate/
 寄付金は一口幾らでも構いませんし、また何口でも構いません。
 皆様からの温かいご支援をお待ちしております。
 
-<a name="jpbank">菊月第三砲身引き揚げ支援受付窓口</a>
+寄付受付窓口
 ---
 
 **金融機関名: ゆうちょ銀行**
