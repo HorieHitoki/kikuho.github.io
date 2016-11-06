@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 入会案内
+title: 入退会案内
 permalink: /member/
 ---
 
@@ -14,7 +14,7 @@ permalink: /member/
 <a name="join">入会手続</a>
 ---
 
-** 現在は賛助会員のみ募集しております。 **
+**現在は賛助会員のみ募集しております。**
 
 入会を希望される場合は「[入会申込書]({{ site.baseurl }}/join.txt)」をinfo<i class="fa fa-at" aria-hidden="true"></i>kikuzuki.orgまでご提出ください。
 
