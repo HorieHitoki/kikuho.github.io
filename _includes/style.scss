@@ -59,7 +59,6 @@ p {
 }
 
 a {
-  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -276,10 +275,6 @@ nav {
 
 .fa {
   color: $black;
-}
-
-.fa:hover, .fa:active {
-  color: $blue;
 }
 
 footer {
