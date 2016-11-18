@@ -96,10 +96,12 @@ strong, b {
 }
 
 label {
+  color: $blue;
+  text-align: center;
   padding: 5px;
   display: block;
   margin: 0;
-  border: 1px solid $black;
+  border: 1px solid $blue;
 }
 
 input[type="checkbox"].on-off{
@@ -121,10 +123,10 @@ input[type="checkbox"].on-off{
   padding: 5px;
 }
 
-input[type="checkbox"].on-off + ul{
+ul + input[type="checkbox"].on-off {
   height: 0;
   overflow: hidden;
-  &:checked + ul{
+  &:checked {
   height: 100px;
   }
 }
