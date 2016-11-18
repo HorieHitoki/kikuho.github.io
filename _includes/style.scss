@@ -95,15 +95,6 @@ strong, b {
   font-weight: bold;
 }
 
-label {
-  background: $blue;
-  color: #fff;
-  padding: 10px;
-  display: block;
-  margin: 0;
-  border: 1px solid #fff;
-}
-
 input[type="checkbox"].on-off{
   display: none;
 }
@@ -126,10 +117,9 @@ input[type="checkbox"].on-off{
 input[type="checkbox"].on-off + ul{
   height: 0;
   overflow: hidden;
-}
-
-input[type="checkbox"].on-off:checked + ul{
+  &:checked + ul{
   height: 200px;
+  }
 }
 
 #photos {
