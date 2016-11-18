@@ -101,7 +101,7 @@ label {
   padding: 5px;
   display: block;
   margin: 0;
-  border: 1px solid $blue;
+  border: 1px solid $gray;
 }
 
 input[type="checkbox"].on-off{
@@ -123,12 +123,13 @@ input[type="checkbox"].on-off{
   padding: 5px;
 }
 
-ul + input[type="checkbox"].on-off {
+input[type="checkbox"].on-off + ul {
   height: 0;
   overflow: hidden;
-  &:checked {
+}
+
+input[type="checkbox"].on-off:checked + ul {
   height: 100px;
-  }
 }
 
 #photos {
