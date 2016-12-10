@@ -1,4 +1,4 @@
-{% if site.footer-links.facebook %}<a href="https://www.facebook.com/{{ site.footer-links.facebook }}"><amp-img src="{{ site.baseurl }}/svg/facebook-official.svg" layout="responsive" width="32" height="32" /></a>{% endif %}
-{% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}"><amp-img src="{{ site.baseurl }}/svg/github.svg" layout="responsive" width="32" height="32" /></a>{% endif %}
-{% if site.footer-links.twitter %}<a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><amp-img src="{{ site.baseurl }}/svg/twitter.svg" layout="responsive" width="32" height="32" /></a>{% endif %}
-{% if site.footer-links.cc %}<a href="https://creativecommons.org/licenses/{{ site.footer-links.cc }}"><amp-img src="{{ site.baseurl }}/svg/creative-commons.svg" layout="responsive" width="32" height="32" /></a>{% endif %}
+{% if site.footer-links.facebook %}<a href="https://www.facebook.com/{{ site.footer-links.facebook }}">{% include facebook-official.svg %}</a>{% endif %}
+{% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}">{% include github.svg %}</a>{% endif %}
+{% if site.footer-links.twitter %}<a href="https://www.twitter.com/{{ site.footer-links.twitter }}">{% include twitter.svg %}</a>{% endif %}
+{% if site.footer-links.cc %}<a href="https://creativecommons.org/licenses/{{ site.footer-links.cc }}">{% include creative-commons.svg %}</a>{% endif %}
