@@ -84,7 +84,7 @@ title: ギャラリーにて展示している写真の解説など
 ## ホーサーリール
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309091016.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309091016.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309091016.png" layout="responsive" width="4" height="3" />
 </a>
 
 ホーサーリールは各種索類の巻き取りと格納するためのものである。
@@ -96,7 +96,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 煙突
 
 <a href="{{ site.url }}/gallery/2016-03-08/orig/20160308104230.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308104230.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308104230.png" layout="responsive" width="4" height="3" />
 </a>
 
 睦月型は、前級の神風型と大差ない煙突の配置をしている。
@@ -114,7 +114,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 滑り止め
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309081252.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309081252.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309081252.png" layout="responsive" width="4" height="3" />
 </a>
 
 甲板では滑り止めが施されている。
@@ -136,7 +136,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 艦首
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309111809.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309111809.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309111809.png" layout="responsive" width="4" height="3" />
 </a>
 
 凌波を高めるべく、従来まで採用されていたスプーン型の艦首形状からに改良された。
@@ -152,7 +152,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 艦本式タービン
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309081005.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309081005.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309081005.png" layout="responsive" width="4" height="3" />
 </a>
 
 純国産の艦艇用タービンである。
@@ -170,7 +170,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 魚雷運搬軌道
 
 <a href="{{ site.url }}/gallery/2016-03-08/orig/20160308093921.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308093921.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308093921.png" layout="responsive" width="4" height="3" />
 </a>
 
 魚雷を搭載する艦艇には、魚雷格納庫から魚雷発射管に運搬するためのレールが敷かれている。
@@ -182,7 +182,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 第1魚雷発射管基部
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309091452.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309091452.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309091452.png" layout="responsive" width="4" height="3" />
 </a>
 
 魚雷は、駆逐艦の主兵装として装備されていた。
@@ -200,7 +200,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 舷外消磁電路
 
 <a href="{{ site.url }}/gallery/2016-03-08/orig/20160308073738.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308073738.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308073738.png" layout="responsive" width="4" height="3" />
 </a>
 
 磁気機雷対策として多くの鋼製船体の艦艇の船体の上縁多芯組線を装備した。
@@ -216,7 +216,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 第1主砲台座
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309091303.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309091303.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309091303.png" layout="responsive" width="4" height="3" />
 </a>
 
 睦月型では、45口径三年式12cm単装砲を装備していた。全手動で操作される。
@@ -236,7 +236,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 第2主砲支柱
 
 <a href="{{ site.url }}/gallery/2016-03-08/orig/20160308092745.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308092745.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308092745.png" layout="responsive" width="4" height="3" />
 </a>
 
 睦月型の第2砲台は、前部煙突の後ろに置かれている。
@@ -250,7 +250,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 第1砲身
 
 <a href="{{ site.url }}/gallery/2016-03-08/orig/20160308073058.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308073058.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-08/thumb/20160308073058.png" layout="responsive" width="4" height="3" />
 </a>
 
 戦後に菊月の第1砲身は、左舷前部煙突横に置かれている。
@@ -262,7 +262,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 第4主砲台座
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309110956.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309110956.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309110956.png" layout="responsive" width="4" height="3" />
 </a>
 
 戦況の変化で第4主砲が撤去され機銃に換装された艦艇も存在する。
@@ -276,7 +276,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 第3主砲台座および砲身
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309092930.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309092930.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309092930.png" layout="responsive" width="4" height="3" />
 </a>
 
 引き揚げをソロモン政府より正式に許可して頂いた場所である。
@@ -290,7 +290,7 @@ title: ギャラリーにて展示している写真の解説など
 ## 舵取機室
 
 <a href="{{ site.url }}/gallery/2016-03-09/orig/20160309090459.png">
-<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309090459.png" layout="responsive" width="150" height="113" />
+<amp-img src="{{ site.url }}/gallery/2016-03-09/thumb/20160309090459.png" layout="responsive" width="4" height="3" />
 </a>
 
 菊月の船体後部は侵食が進み、甲板は残っていない。
