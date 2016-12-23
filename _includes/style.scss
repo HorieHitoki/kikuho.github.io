@@ -10,7 +10,8 @@ html {
 }
 
 body {
-  background: $white url(https://kikuzuki.org/pattern.svg) fixed;
+  background: url(https://kikuzuki.org/pattern.svg) fixed;
+  background-color: $white;
   opacity: 0.5;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
