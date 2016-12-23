@@ -1,5 +1,3 @@
----
----
 //IMPORTS
 
 @import "variables";
@@ -12,7 +10,7 @@ html {
 }
 
 body {
-  background: {% include pattern.svg %} fixed;
+  background: $white url(https://kikuzuki.org/pattern.svg) fixed;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
 }
