@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url(https://kikuzuki.org/pattern.svg) fixed;
+  background: $white;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
 }
@@ -150,7 +150,6 @@ strong, b {
 // .masthead
 
 .wrapper-masthead {
-  background-color: rgba(245,245,245,0.8);
   margin-bottom: 50px;
   border-bottom: 1px solid $gray;
 }
@@ -269,7 +268,6 @@ nav {
 }
 
 .wrapper-footer {
-  background-color: rgba(245,245,245,0.8);
   color: $black;
   margin-top: 50px;
   border-top: 1px solid $gray;
