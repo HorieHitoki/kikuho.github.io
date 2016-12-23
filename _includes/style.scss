@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background: url(https://y6.org) fixed;
+  background: {% include pattern.svg %} fixed;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
 }
