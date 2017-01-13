@@ -15,14 +15,9 @@ favicon: /qr.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-# email: info@kikuzuki.org
   facebook: kikuzuki
-# flickr: kikuzuki
   github: kikuho/kikuho.github.io
-  rss: # just type anything here for a working RSS icon
   twitter: kikuzuki_hozon
-# googleplus: +KikuzukiOrganization
-# tumblr: kikuho
   cc: by/4.0/deed.ja
 
 # Enter your Google Analytics web tracking code (e.g. UA-71602879-1) to activate tracking
@@ -67,4 +62,3 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
