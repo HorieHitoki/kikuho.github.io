@@ -266,6 +266,10 @@ nav {
   }
 }
 
+.wrapper-masthead {
+  background-image: linear-gradient(120deg, $white, $gray);
+}
+
 .wrapper-footer {
   color: $black;
   margin-top: 50px;
