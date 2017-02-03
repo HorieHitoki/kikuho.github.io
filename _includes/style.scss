@@ -10,7 +10,6 @@ html {
 }
 
 body {
-  background: $white;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
 }
@@ -272,6 +271,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid $gray;
   border-bottom: 1px solid $gray;
+  background-image: linear-gradient(120deg, $white, $gray);
 }
 
 footer {
