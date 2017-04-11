@@ -4,7 +4,7 @@ title: 寄付金のお願い
 permalink: /donate/
 ---
 
-* ジャパンギビングが提供するファンドレイジングページは[こちら](http://japangiving.jp/p/3982)
+* ジャパンギビングが提供するファンドレイジングページは[こちら](https://japangiving.jp/supports/3982)
 * 菊月保存会は、日本財団が提供する公益活動団体データベースCANPANにて情報開示を進めています。[詳細](http://fields.canpan.info/organization/detail/1924940248)
 * また、本会への寄付について、寄付者が法人である場合は、寄付金は損金算入可能です。[詳細](http://law.e-gov.go.jp/htmldata/S40/S40HO034.html)
 
