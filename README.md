@@ -1,5 +1,5 @@
 # Jekyll AMP (kikuho.github.io)
-Maintained by Hitoki Horie
+Maintained by Hitoki Horie.
 
 ## Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
@@ -9,4 +9,4 @@ Maintained by Hitoki Horie
 - [Amplify for Jekyll](https://github.com/ageitgey/amplify)
 
 ## Licence
-[MIT Licence](https://kikuzuki.org/LICENCE)
+MIT Licence
