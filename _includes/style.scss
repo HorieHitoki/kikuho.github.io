@@ -235,10 +235,6 @@ nav {
   }
 }
 
-#main {
-  padding-bottom:145px;
-}
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $gray;
@@ -273,11 +269,6 @@ nav {
 }
 
 .wrapper-footer {
-  bottom: 0;
-  left: 0;
-  right: 0;
-  position: fixed;
-  opacity: 0.8;
   color: $black;
   margin-top: 50px;
   border-top: 1px solid $gray;
