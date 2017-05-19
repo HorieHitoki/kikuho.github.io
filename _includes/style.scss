@@ -278,12 +278,4 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-	
-  a {
-    margin-left: 20px;
-
-    @include mobile {
-      margin: 0 10px;
-    }
-  }
 }
