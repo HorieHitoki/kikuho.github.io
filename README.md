@@ -9,5 +9,5 @@ Maintained by Hitoki Horie.
 - [Amplify for Jekyll](https://github.com/ageitgey/amplify)
 - [Compress HTML in Jekyll](https://github.com/penibelst/jekyll-compress-html)
 
-## Licence
-MIT Licence
+## License
+MIT
