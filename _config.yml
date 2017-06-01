@@ -72,4 +72,4 @@ compress_html:
     envs: []
   blanklines: false
   profile: false
-  startings: [html, head]
+  startings: [html]
