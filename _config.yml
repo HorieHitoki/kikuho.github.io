@@ -11,12 +11,12 @@ description: 駆逐艦「菊月」第四砲身の舞鶴への引き揚げを進�
 logo: /Japanese_Crest_Tsukiwa_Ni_Nozoki_Kiku.svg
 favicon: /qr.png
 
-# Flags below are optional
+# Flags below are optional (end2end)
+github: kikuho/kikuho.github.io
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   facebook: kikuzuki
-  github: kikuho/kikuho.github.io
   twitter: kikuzuki_hozon
   cc: by/4.0/deed.ja
 
