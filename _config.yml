@@ -13,6 +13,7 @@ favicon: /qr.png
 
 # Flags below are optional (end2end)
 github: kikuho/kikuho.github.io
+paginate: 3
 
 # Includes an icon in the footer for each username you enter
 footer-links:
