@@ -14,7 +14,7 @@ favicon: /qr.png
 # Flags below are optional (end2end)
 github: kikuho/kikuho.github.io
 
-# Pagenation
+# Pagination
 paginate: 3
 paginate_path: "page/:num"
 
