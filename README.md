@@ -1,4 +1,4 @@
-# [Jekyll AMP](https://kikuzuki.org)
+# Jekyll AMP (kikuho.github.io)
 Maintained by Hitoki Horie.
 
 ## Credits
