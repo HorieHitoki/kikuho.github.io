@@ -21,7 +21,7 @@ paginate_path: "/page/:num"
 footer-links:
   facebook: kikuzuki
   twitter: kikuzuki_hozon
-  youtube: channel/UCQt7pQIquwgFHgxOCfNnxnw
+  youtube: c/kikuzukipreservationsociety
 
 # Enter your Google Analytics web tracking code (e.g. UA-71602879-1) to activate tracking
 google_analytics: UA-71602879-1
