@@ -14,8 +14,8 @@ favicon: /qr.png
 # Flags below are optional
 
 # Pagination
-paginate: 2
-paginate_path: "/page/:num"
+# paginate: 2
+# paginate_path: "/page/:num"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
