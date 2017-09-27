@@ -1,5 +1,5 @@
 # Jekyll AMP (kikuho.github.io)
-Maintained by @[HitokiHorie](https://github.com/HorieHitoki).
+Maintained by [@HitokiHorie](https://github.com/HorieHitoki).
 
 ## Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
